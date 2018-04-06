@@ -8,7 +8,7 @@ yarn add @clr/angular
 
 # Clarity Scripts for .angular-cli.json
 SCRIPTS_LINE_1="      \"scripts\": [?"
-SCRIPTS_LINE_2="        \"..\/node_modules\/@clr\/icons\/clr-icons.min.css,\",?"
+SCRIPTS_LINE_2="        \"..\/node_modules\/@clr\/icons\/clr-icons.min.css\",?"
 SCRIPTS_LINE_3="        \"..\/node_modules\/@webcomponents\/custom-elements\/custom-elements.min.js\",\?"
 SCRIPTS_LINE_4="        \"..\/node_modules\/@clr\/icons\/clr-icons.min.js\"?"
 SCRIPTS_LINE_5="      ],"
