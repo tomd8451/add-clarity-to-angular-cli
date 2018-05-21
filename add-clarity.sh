@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Add Clarity dependencies to YARN
-ng add @clr/angular@next
 yarn add rxjs-compat
+ng add @clr/angular@next
 
 # Backup the files we're manipulating
 cp src/app/app.component.html src/app/app.component.html_bak
